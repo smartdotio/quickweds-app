@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { redirect } from "next/navigation";
-import { BadgeCheck, ShieldCheck } from "lucide-react";
+import { BadgeCheck, ShieldCheck } from "@/components/icons";
 import { DemoBanner } from "@/components/demo-banner";
 import { SiteHeader } from "@/components/site-header";
 import { ButtonLink, Card, Hud } from "@/components/ui";

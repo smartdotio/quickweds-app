@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Eye, FilePlus2, ShieldCheck } from "lucide-react";
+import { Eye, FilePlus2, ShieldCheck } from "@/components/icons";
 import { Button, Card, Hud, StatusBadge } from "@/components/ui";
 import { requireClient } from "@/lib/auth";
 import { formatDate } from "@/lib/format";

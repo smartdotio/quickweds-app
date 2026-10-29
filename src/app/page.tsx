@@ -10,7 +10,7 @@ import {
   ShieldCheck,
   Sparkles,
   XCircle,
-} from "lucide-react";
+} from "@/components/icons";
 import { DemoBanner } from "@/components/demo-banner";
 import { RouteOrbit } from "@/components/route-orbit";
 import { SiteFooter } from "@/components/site-footer";

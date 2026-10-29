@@ -1,5 +1,5 @@
 import { clsx } from "clsx";
-import { Check } from "lucide-react";
+import { Check } from "@/components/icons";
 import { formatDate } from "@/lib/format";
 import type { RouteTemplate, StageEvent } from "@/lib/types";
 

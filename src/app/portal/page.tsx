@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { ArrowRight, CalendarClock, CircleAlert, Compass, PackageCheck, Sparkles, Video } from "lucide-react";
+import { ArrowRight, CalendarClock, CircleAlert, Compass, PackageCheck, Sparkles, Video } from "@/components/icons";
 import { StageTimeline } from "@/components/stage-timeline";
 import { ButtonLink, Card, Flag, Hud } from "@/components/ui";
 import { requireClient } from "@/lib/auth";

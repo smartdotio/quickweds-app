@@ -1,7 +1,7 @@
 "use client";
 
 import { useRef } from "react";
-import { X } from "lucide-react";
+import { X } from "@/components/icons";
 import type { LegalDoc } from "@/lib/legal";
 
 /** Required consent checkbox; agreement texts open in an in-page dialog. */

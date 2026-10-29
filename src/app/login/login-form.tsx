@@ -1,7 +1,7 @@
 "use client";
 
 import { useActionState } from "react";
-import { Loader2, MailCheck } from "lucide-react";
+import { Loader2, MailCheck } from "@/components/icons";
 import { Button, Field } from "@/components/ui";
 import { sendMagicLink, type LoginState } from "./actions";
 

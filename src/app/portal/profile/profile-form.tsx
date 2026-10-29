@@ -1,7 +1,7 @@
 "use client";
 
 import { useActionState } from "react";
-import { Check, Loader2 } from "lucide-react";
+import { Check, Loader2 } from "@/components/icons";
 import { Button, Field } from "@/components/ui";
 import { updateProfile, type ProfileState } from "../actions";
 

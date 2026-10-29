@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useActionState, useMemo, useState } from "react";
 import { AnimatePresence, motion } from "motion/react";
 import { clsx } from "clsx";
-import { ArrowLeft, ArrowRight, Check, Compass, Info, Loader2, ShieldAlert, TriangleAlert } from "lucide-react";
+import { ArrowLeft, ArrowRight, Check, Compass, Info, Loader2, ShieldAlert, TriangleAlert } from "@/components/icons";
 import { Button, Card, Field, Flag, Hud } from "@/components/ui";
 import { formatEur, formatNgnShort } from "@/lib/format";
 import { BAND_LABEL, DEFAULT_ANSWERS, fundsRequiredEur, scoreReadiness } from "@/lib/scoring";

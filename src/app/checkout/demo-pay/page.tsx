@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import { CreditCard, Landmark, Smartphone } from "lucide-react";
+import { CreditCard, Landmark, Smartphone } from "@/components/icons";
 import { DemoBanner } from "@/components/demo-banner";
 import { LogoMark } from "@/components/logo";
 import { ButtonLink, Card, Hud } from "@/components/ui";

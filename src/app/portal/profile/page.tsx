@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Download, LogOut, Trash2 } from "lucide-react";
+import { Download, LogOut, Trash2 } from "@/components/icons";
 import { Button, ButtonLink, Card, Hud } from "@/components/ui";
 import { requireClient } from "@/lib/auth";
 import { formatDate, formatNgn } from "@/lib/format";

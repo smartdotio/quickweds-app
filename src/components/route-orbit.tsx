@@ -1,4 +1,4 @@
-import { CheckCircle2, FileCheck2, Gauge } from "lucide-react";
+import { CheckCircle2, FileCheck2, Gauge } from "@/components/icons";
 
 const ORIGIN = { x: 214, y: 404, code: "LOS", name: "Lagos", coord: "6.52°N 3.37°E" };
 const TARGETS = [

@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { clsx } from "clsx";
-import { FolderLock, LayoutDashboard, UserRound } from "lucide-react";
+import { FolderLock, LayoutDashboard, UserRound } from "@/components/icons";
 
 const ITEMS = [
   { href: "/portal", label: "Dashboard", icon: LayoutDashboard },

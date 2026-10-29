@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ArrowLeft, CalendarClock, Mail, Phone, ShieldCheck } from "lucide-react";
+import { ArrowLeft, CalendarClock, Mail, Phone, ShieldCheck } from "@/components/icons";
 import { StageTimeline } from "@/components/stage-timeline";
 import { Button, Card, Flag, Hud } from "@/components/ui";
 import { requireStaff } from "@/lib/auth";

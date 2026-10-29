@@ -2,7 +2,7 @@
 
 import { useRef, useState, useTransition } from "react";
 import { clsx } from "clsx";
-import { Loader2, ShieldCheck, Upload, X } from "lucide-react";
+import { Loader2, ShieldCheck, Upload, X } from "@/components/icons";
 import { Button } from "@/components/ui";
 import { supabaseBrowser } from "@/lib/supabase/browser";
 import { acceptDeclaration, confirmUpload, prepareUpload } from "../actions";

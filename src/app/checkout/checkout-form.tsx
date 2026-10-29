@@ -1,7 +1,7 @@
 "use client";
 
 import { useActionState } from "react";
-import { Loader2, Lock } from "lucide-react";
+import { Loader2, Lock } from "@/components/icons";
 import { AgreementConsent } from "@/components/agreement-consent";
 import { Button } from "@/components/ui";
 import type { LegalDoc } from "@/lib/legal";

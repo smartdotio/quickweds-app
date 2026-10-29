@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { notFound, redirect } from "next/navigation";
-import { CalendarCheck2, Video } from "lucide-react";
+import { CalendarCheck2, Video } from "@/components/icons";
 import { DemoBanner } from "@/components/demo-banner";
 import { SiteHeader } from "@/components/site-header";
 import { ButtonLink, Card, Hud } from "@/components/ui";

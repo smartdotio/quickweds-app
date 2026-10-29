@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Check, Eye, RotateCcw } from "lucide-react";
+import { Check, Eye, RotateCcw } from "@/components/icons";
 import { StatusBadge } from "@/components/ui";
 import { formatDate } from "@/lib/format";
 import type { CaseDocument } from "@/lib/types";

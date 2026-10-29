@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { CalendarX2, CircleAlert, Clock3, Search, Trash2, Users } from "lucide-react";
+import { CalendarX2, CircleAlert, Clock3, Search, Trash2, Users } from "@/components/icons";
 import { clsx } from "clsx";
 import { Card, Flag, Hud } from "@/components/ui";
 import { requireStaff } from "@/lib/auth";
